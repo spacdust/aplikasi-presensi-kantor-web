@@ -31,6 +31,6 @@ List framework dan library yang digunakan.
 [mazer-url]: https://zuramai.github.io/mazer/
 [versi-mobile]: https://img.shields.io/badge/versi-mobile-blue
 [versi-mobile-url]: #
-[absensi-app]: https://img.shields.io/badge/absensi%20app
+[absensi-app]: https://img.shields.io/badge/absensi%20app-828282
 [apsensi-app-url]: https://github.com/muhammadpauzi/absensi-app/
 
