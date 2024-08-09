@@ -1,7 +1,7 @@
 ### Description
-Aplikasi presensi kantor berbasis web. Versi web digunakan admin untuk manajemen data presensi. Versi mobile digunakan untuk pegawai melakukan presensi. Versi mobile dapat dilihat pada [![versi-mobile]][versi-mobile-url].
+Aplikasi presensi kantor berbasis web dengan laravel 8. Versi web digunakan admin untuk manajemen data presensi. Versi mobile digunakan untuk pegawai melakukan presensi. Versi mobile dapat dilihat pada [![versi-mobile]][versi-mobile-url]. Aplikasi web merupakan hasil modifikasi dan pengembangan lanjut dari [![absensi-app]][apsensi-app-url].
 
-### Fitur
+### Feature
 - Login Admin
 - Manjemen Bagian
 - Manjemen Posisi Pegawai
@@ -31,4 +31,6 @@ List framework dan library yang digunakan.
 [mazer-url]: https://zuramai.github.io/mazer/
 [versi-mobile]: https://img.shields.io/badge/versi-mobile-blue
 [versi-mobile-url]: #
+[absensi-app]: https://img.shields.io/badge/absensi%20app
+[apsensi-app-url]: https://github.com/muhammadpauzi/absensi-app/
 
